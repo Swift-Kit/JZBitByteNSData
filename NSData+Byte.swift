@@ -1,5 +1,5 @@
 //
-//  NSData+BitByte.swift
+//  NSData+Byte.swift
 //  
 //
 //  Created by Joey Z on 12/28/15.
